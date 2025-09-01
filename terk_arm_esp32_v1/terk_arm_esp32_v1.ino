@@ -58,9 +58,9 @@ double L2 = 157;          // ความยาวของข้อต่อท
 double baseHeight = 156;  // ความสูงจากพื้น 156 มม.
 
 int stepper1Position, stepper2Position, stepper3Position;
-float theta1AngleToSteps = 77.222222;
-float theta2AngleToSteps = 77.222222;
-float phiAngleToSteps = 23.222222;
+float theta1AngleToSteps = 2.8778;
+float theta2AngleToSteps = 2.8778;
+float phiAngleToSteps = 23.22 ; 
 
 // ตัวแปรเก็บค่าที่ถูกส่งไปล่าสุด
 int lastTheta1 = 250;
